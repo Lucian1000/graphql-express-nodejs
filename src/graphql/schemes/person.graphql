@@ -1,0 +1,4 @@
+type Person {
+    id: Int
+    name: String
+}
